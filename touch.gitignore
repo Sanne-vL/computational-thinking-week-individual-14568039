@@ -1,5 +1,0 @@
-# ignore all pycache files
-*.cpython-39.pyc
-
-# ignore all files in ANY directory called __pycache__
-__pycache__/
